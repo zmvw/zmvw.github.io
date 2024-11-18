@@ -1,0 +1,4 @@
+baseURL = 'https://zmvw.github.io/'
+languageCode = 'zh-cn'
+title = 'zmvwの✨笔记'
+theme = 'arc'
